@@ -6,7 +6,6 @@ The aim of this program is to create a two-player Connect Four game where one pl
 
 ### ALGORITHM:
 
-### Algorithm for Connect Four with AI:
 
 1. **Initialize Game:**
    - Set up a 7x6 grid to represent the Connect Four board.
