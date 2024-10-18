@@ -4,10 +4,15 @@
 ### AIM:
 
 Design a decision tree for following data. 
+
 Healthy, In Cover, With Ammo -> Attack
+
 Hurt, In Cover, With Ammo -> Attack
+
 Healthy, In Cover, Empty -> Defend
+
 Hurt, In Cover, Empty -> Defend
+
 Hurt, Exposed, With Ammo -> Defend
 
 ### ALGORITHM :
