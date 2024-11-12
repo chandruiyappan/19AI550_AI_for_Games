@@ -1,6 +1,6 @@
-# Ex.No: 10  Mini Project 
+# Ex.No: 11  Mini Project 
 #### DATE: 08/10/2024                                                                            
-#### REGISTER NUMBER : 212221240002
+#### REGISTER NUMBER : 212221220007
 ### AIM: 
 The aim of this program is to create a two-player Connect Four game where one player is controlled by an AI.
 
